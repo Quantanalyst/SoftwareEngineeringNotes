@@ -23,7 +23,7 @@ Non-Functional requirements might have some subcategories:
 Some well-known software models are as below:
   * WRSPM Model (World, Requirements, Specification, Program, Machine): 
 
-[!WRSPM]('wrspm.jpeg')
+![WRSPM](wrspm.jpeg)
 
 
 
