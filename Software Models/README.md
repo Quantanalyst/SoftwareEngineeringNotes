@@ -24,7 +24,7 @@ Some well-known software models are as below:
   * WRSPM Model (World, Requirements, Specification, Program, Machine): 
 
 
-<img src="https://github.com/Quantanalyst/SoftwareEngineeringNotes/blob/master/Software%20Models/wrspm.gif"  width="360" height="360">
+<img src="https://github.com/Quantanalyst/SoftwareEngineeringNotes/blob/master/Software%20Models/wrspm.jpg"  width="360" height="360">
 
 
 
