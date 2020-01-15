@@ -1,4 +1,4 @@
-## Design
+## Design - Architecture
 
 Design has the following components:
   * Architecture
