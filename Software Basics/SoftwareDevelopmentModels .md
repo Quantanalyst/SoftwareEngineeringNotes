@@ -27,7 +27,6 @@ The sashimi process is most appropriate for medium-sized projects for which the 
     * This Spiral model is a combination of iterative development process model and sequential linear development model i.e. the waterfall model with a very high emphasis on risk analysis. It allows incremental releases of the product or incremental refinement through each iteration around the spiral.
 
 ![](V-Model.png)
-<img src="https://github.com/Quantanalyst/SoftwareEngineeringNotes/blob/master/Software%20Models/wrspm.png"  width="240" height="240">
 
 ![](UPF.jpg)
 
