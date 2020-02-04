@@ -22,8 +22,8 @@ Examples of Runtime Complexity:
 
 Some graphs to help memorizing different operations
 
-[Big-O Chart](BigOChart.png)
+![Big-O Chart](BigOChart.png)
 
-[Array Sorting Algorithms](ArraySortingAlgorithm.png)
+![Array Sorting Algorithms](ArraySortingAlgorithm.png)
 
-[Common Data Structure Operations](CommonDataStructureOperations.png)
+![Common Data Structure Operations](CommonDataStructureOperations.png)
