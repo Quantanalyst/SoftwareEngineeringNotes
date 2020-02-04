@@ -19,10 +19,13 @@ Examples of Runtime Complexity:
   * Exponential - O(2^n) - Tower of Hanoi problem
   * Factorial - O(n!)
 
+How to determine the complexity of the algorithms?\
+We have two kinds of algorithms: 1) iterative, 2) recursive. For iterative, it is very simple, we determine the time complexity of each line of code and simply add them together. For recursive algorithm, we need to solve a Recursive equation with **Back Substitution** to find out the time complexity of the Recursive operation and add all operations together. 
+
 
 Some graphs to help memorizing different operations
 
-![Big-O Chart](BigOChart.png)
+![Big-O Chart](BigOchart.png)
 
 ![Array Sorting Algorithms](ArraySortingAlgorithm.png)
 

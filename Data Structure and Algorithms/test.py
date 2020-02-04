@@ -32,4 +32,20 @@ def Fibonacci(n):
     else:
         return Fibonacci(n-1) + Fibonacci(n-2)
     
-print(Fibonacci(5))
+# Finding a number in a sorted array
+def FindNumber(num, array):
+    if len(array) == 0:
+        print('This number does not exist in the array')
+    else:
+        pointer = int(np.ceil(len(array)/2) -1)
+        if array[pointer] == num:
+            return num, pointer
+        elif array[pointer] > num:
+            array = array[0:pointer]
+            FindNumber(num,array)
+        else:
+            array = array[pointer+1:]
+            FindNumber(num,array)
+        
+test = np.array([0,1,1,2,3,5,8,13,21,34])
+_, index = FindNumber(3,test)
