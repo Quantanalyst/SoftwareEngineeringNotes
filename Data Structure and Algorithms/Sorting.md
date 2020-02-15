@@ -56,9 +56,9 @@ When to avoid:
 
 ## Insertion sort
 
-The algo. divides the array into 2 parts, i.e. sorted and unsorted. Then from the unsorted picks the first element and find its correct position in a sorted way by comparison and swapping. It repeats until unsorted array is empty. 
+The algo. divides the array into 2 parts, i.e. sorted and unsorted. Then from the unsorted picks the first element and find its correct position in a sorted way by **comparing** and **pair-wise swapping**. It repeats until unsorted array is empty. 
 
-Time Complexity O(n^2)
+Time Complexity O(n^2)  --> O(n) for scanning the array, and O(n) for comparing and swapping. Even if we improve comparing operation with Binary Search to O(log n), the swapping operation is still O(n)
 Space Complexity O(1)
 
 When to use:
